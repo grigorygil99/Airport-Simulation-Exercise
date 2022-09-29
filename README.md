@@ -7,6 +7,6 @@ Backend API:
 Frontend:
  - http://localhost:4200
 
-#How to run
+## How to run
  - dotnet run
  - ng serve --port 4200
